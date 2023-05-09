@@ -1,6 +1,6 @@
 # DS-GA-1019_Course-Project
 
-This is the GitHub Repository for the Final Course of the discipline DS-GA 1019 - Advanced Python for Data Science at New York University (Spring 2023).
+This is the GitHub Repository for the Final Project of the discipline DS-GA 1019 - Advanced Python for Data Science at New York University (Spring 2023).
 
 **Authors:**
  - Jennifer Rodriguez-Trujillo (NYU CDS 2023 - jr5951@nyu.edu)
